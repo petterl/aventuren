@@ -15,13 +15,13 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+title:       "Äventuren 2016"
+keywords:    "Äventuren, aventuren, scout, utmanare, rover, ledare, arrangemang, tävling, skåne"
+description: "En poängtävlan för för Utmanarscouter, roverscouter och ledare"
+source_link: "https://petterl.github.io/aventuren2016"
+favicon:     "img/favicon-morkbla.ico" #put a path like: "img/favicon.ico"
+touch_icon:  "img/scoutlilja-bla.png" #put a path like: "img/apple-touch-icon.png"
+google_analytics_key: "UA-70259114-1" ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -30,9 +30,8 @@ colors:
   white:     '#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  darkgreen: '#78AB46'
+  red:       '#cf3f4f'
 
 kramdown:
   auto_ids:  false
