@@ -1,6 +1,6 @@
 
-Annordnas för [scouterna](http://www.scout.se/) 
-&mdash;
-av [Petter Sandholdt](mailto:petter@sandholdt.se)
+Annordnas av [Tornfalkens scoutkår](http://www.tornfalken.org/) 
+&amp;
+[Petter Sandholdt](mailto:petter@sandholdt.se)
 
 
