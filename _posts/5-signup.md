@@ -9,11 +9,7 @@ fa-icon: check-circle
 
 Då tävlingsområdet är begränsat så är antalet tävlande begränsat.
 
-Vi har nu kommit upp i det antal lag som vi tror blir bra för tävlingen, 
-men frukta inte, har du tur blir någon sjuk! :-)
-
-Du anmäler ditt lag till **väntelistan** i detta **[formulär](http://goo.gl/forms/1v99zN6GKu)**
-Vi kommer att meddela dig närmare hur det ser ut med plats och du får gärna fråga oss via facebook eller mail.
+Än så länge finns inget sätt att anmäla sig, men hör av er om vi vill ha information när den kommer.
 
 Har du några som helst frågor så skicka dem till: 
 <a href="mailto:aventuren@sandholdt.se">aventuren@sandholdt.se</a>

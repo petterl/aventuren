@@ -18,12 +18,11 @@ det är säkert fler som undrar samma sak.
 
 ### Vart ska vi vara?
 
-Vi kommer att tävla öster om Vressel, och samlingplatsen komemr att vara 
-[Scoutstugan Wressel](https://www.google.com/maps/place/Scoutg%C3%A5rden+Wressel/@55.6643979,13.6361755,17z)
+Tävlingsplatsen kommer meddelas i tid till tävlingen.
 
 ### Måste jag läsa alla regler?
 
-Nej, vi kommer att ha en samling i Malmö fredag kväll kl 18:00 den 27 Maj för dem som vill.
+Nej, vi kommer att ha en samling i Malmö fredag kväll innan tävlingslördagen kl 18:00 för dem som vill.
 Där kommer du att få en genomgång av alla reglerna och få en chans att ställa andra frågor.
 
 ### Hur vinner man?
@@ -36,8 +35,7 @@ rört sig över stora delar av planen för att kunna få det priset.
 
 Det är helt upp till er hur ni vill sova, antingen hittar ni en gran att lägga er under, bygger upp
 ett vindskydd eller tar med tält, alla sätt är tillåtna, men ni måste sova inom tävlingsområdet om ni inte väljer
-att bryta tävlingen och då gör man det vid målplatsen. Vi har tillgång till scoutgården ifall ni akut måste lägga er, men denna
-är utanför tävlingsområdet.
+att bryta tävlingen och då gör man det vid målplatsen. 
 
 ### Ska jag ta med egen mat?
 

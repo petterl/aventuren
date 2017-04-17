@@ -5,7 +5,7 @@ color: black  #text color
 style: center
 ---
 
-# Äventuren 2016
+# Äventuren 2017
 
 <span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
   <i class="fa fa-circle fa-stack-2x text-white"></i>
@@ -20,16 +20,13 @@ och lösa klurigheter utan att något annat lag lyckas se er.
 
 Tävlingen är öppen för utmanare, ledare samt rover (och äldre hangarounds).
 
-## Tävlingen annordnas **28-29 Maj 2016**.
+## Tävlingen annordnas i höst 2017.
 
 Tävlingstiden är mellan **16:00** på Lördagen till **10:00** på Söndagen.<br/>
 Man är välkommen att komma till startplatsen för förberedelse från 14:00.
 
 På denna sidan finns *preliminära* regler för tävlingen.
 Vissa saker kan ändra sig och de slutgiltiga reglerna kommer att finnas på startkortet.
-
-När ny information om tävlingen kommer upp på denna sida kommer information även komma upp i 
-[facebook gruppen](https://www.facebook.com/events/1125416097491388/) och mail skickas till anmälda lag.
 
 <img src="img/TLOGO_fixed_trans_2352-300x155.png" width="120px" title="Tornfalkens scoutkår">
 
