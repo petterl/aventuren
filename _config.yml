@@ -6,18 +6,17 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, LICENSE.txt, .gitignore]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
 
-
 ### content configuration ###
-title:       "Äventuren 2016"
+title:       "Äventuren"
 keywords:    "Äventuren, aventuren, scout, utmanare, rover, ledare, arrangemang, tävling, skåne"
 description: "En poängtävlan för för Utmanarscouter, roverscouter och ledare"
-source_link: "https://petterl.github.io/aventuren2016"
+source_link: "https://petterl.github.io/aventuren"
 favicon:     "img/favicon-morkbla.ico" #put a path like: "img/favicon.ico"
 touch_icon:  "img/scoutlilja-bla.png" #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: "UA-70259114-1" ## put YOUR key here to enable tracking! (blank to disable)
